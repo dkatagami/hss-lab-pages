@@ -1,0 +1,2303 @@
+{
+  "summary": {
+    "files": 62,
+    "html_pages": 18,
+    "bytes": 39643260,
+    "extensions": {
+      "(none)": 1,
+      ".css": 4,
+      ".html": 18,
+      ".jpg": 27,
+      ".js": 2,
+      ".png": 8,
+      ".svg": 2
+    },
+    "local_references_checked": 1076,
+    "missing_local_files": 0,
+    "missing_fragments": 0,
+    "original_host_references": 6,
+    "external_references": 444,
+    "root_relative_references": 0,
+    "unsupported_features": 0,
+    "oversized_files": 0
+  },
+  "pages": [
+    "access.html",
+    "assign.html",
+    "en/access.html",
+    "en/assign.html",
+    "en/index.html",
+    "en/katagami.html",
+    "en/lecture.html",
+    "en/member.html",
+    "en/news.html",
+    "en/paper.html",
+    "en/research.html",
+    "index.html",
+    "katagami.html",
+    "lecture.html",
+    "member.html",
+    "news.html",
+    "paper.html",
+    "research.html"
+  ],
+  "missing_local_files": [],
+  "missing_fragments": [],
+  "original_host_references": [
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.hss.cs.t-kougei.ac.jp/hss/2017/%E7%AC%AC4%E5%9B%9EHSS-DC_CFP(rev2).pdf"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.hss.cs.t-kougei.ac.jp/hss/fuzz_ieee/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.hss.cs.t-kougei.ac.jp/hss/2011/003_2011_09_12.php"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.hss.cs.t-kougei.ac.jp/hss/2017/%E7%AC%AC4%E5%9B%9EHSS-DC_CFP(rev2).pdf"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.hss.cs.t-kougei.ac.jp/hss/fuzz_ieee/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.hss.cs.t-kougei.ac.jp/hss/2011/003_2011_09_12.php"
+    }
+  ],
+  "external_references": [
+    {
+      "source": "access.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/access/"
+    },
+    {
+      "source": "access.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/guide/campus/"
+    },
+    {
+      "source": "access.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "assign.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/access.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/access/"
+    },
+    {
+      "source": "en/access.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/guide/campus/"
+    },
+    {
+      "source": "en/access.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/assign.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/index.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://klikandpay.co.jp/interview-katagami/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://caresul-kaigo.jp/column/articles/34878/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.ninjal.ac.jp/event/specialists/project-meeting/m-2018/20180623-sympo/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://bungaku-report.com/blog/2018/03/ninjal90-2018327-15301730.html"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://emerging-future.org/secret/20170623/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2016/session/AC/index.html"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2015/session/AC/7649.html"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://yumenavi.info/lecture.aspx?SearchMod=10&SerKbn=X&ProId=HTML&Page=1&GNKCD=g004871&From=YL"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.j-soft.org/node/1496"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2024/ks#ks-8"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.inlg2019.com/workshop"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://aiwolfdial.kanolab.net/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2019/os#os-14"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2018/os/#os-13"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2017/os/#os-8"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2016/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2016/os#os-29"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://kaigi.org/jsai/webprogram/2016/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2015/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2015/os#os-14"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://kaigi.org/jsai/webprogram/2015/session-118.html"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.cs.kitami-it.ac.jp/FAN2014/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://m-yuasa.net/hai/hai2014os.html"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://dl.acm.org/citation.cfm?id=2662952&dl=ACM&coll=DL&CFID=718232268&CFTOKEN=14606135"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2014/os#os-27"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://kaigi.org/jsai/webprogram/2014/index.html#8"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://fss2013.j-soft.org/session/organized/"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://fss2013.j-soft.org/program/FSS2013-program(20130917).pdf"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "http://2013.conf.ai-gakkai.or.jp/os#os-22"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://kaigi.org/jsai/webprogram/2013/index.html"
+    },
+    {
+      "source": "en/katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/lecture.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/member.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/tomokimiyamoto/home"
+    },
+    {
+      "source": "en/member.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://neuro-diversity.world/report/interview_2026_katagami/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://neuro-diversity.world/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=sP2t2BgDfRc"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://lc-holdings.co.jp/interview-katagami/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://lc-holdings.co.jp/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://iceic.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://prtimes.jp/main/html/rd/p/000000024.000126992.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://taai2025.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/hai2025/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://soft-cr.org/fss/2025/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://neuro-diversity.world/minnou2025/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://neurodiversityawards.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2025/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_2D5GS905/_article/-char/ja"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://knowledge-art.co.jp/interview-katagami/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://knowledge-art.co.jp/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://knowledge-art.co.jp/category/interview/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_3R1OS4503/_article/-char/ja"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2025/awards.php"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2025/article_86152.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2025/proceedings/html/paper/paper-G-30.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/4/36_740/_article/-char/ja"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://klikandpay.co.jp/interview-katagami/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://klikandpay.co.jp/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://siai.jp/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://siai.jp/program/lab-booth"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://siai.jp/program/1h-internship"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/fan2024"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/sapientia.inf.shizuoka.ac.jp/ccws2024/home?authuser=0"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://exidea.co.jp/so-gud/technology/t-kougei/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://exidea.co.jp/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://exidea.co.jp/so-gud/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2024/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2024/ks#ks-8"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/2/36_640/_article/-char/ja"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://jp.his.gr.jp/2023/04/11/transaction-specialissue2602/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://caresul-kaigo.jp/column/articles/34878/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2024/schedule.p"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/ccsr2024"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.anlp.jp/nlp2023/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2023/article_85470.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://om.hmup.jp/6sFqs/dGtvdWdlaS1pbmZvQHN3LWFzc2lzdC5jb20zNmE1ODYyZjI5ZmRhNjkzYmVhYTFhZmIxYzE0YjY1NTkxYThlYzhiZGE0OGU0Y2IzYmI5NTgwYmRkNWI1OTUz"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2023/proceedings/html/paper/paper-D-2.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2023/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ipsj.or.jp/event/taikai/85/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.hcg-ieice.org/hcg-symposium/2022/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2023/article_85395.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/dslc5"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2022/article_85307.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://soft-cr.org/fss/2022/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.commu-ai.org/activity/20220701.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.miraikan.jst.go.jp/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/37/3/37_37-3_IDS-G/_article/-char/ja/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/his/23/4/23_489/_article/-char/ja"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/hai2021/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2021/article_84935.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://dl.acm.org/doi/abs/10.1145/3472307.3484160"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=QkMHaZuHU1Y"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/36/5/36_36-5_A-L23/_article/-char/ja/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/36/5/36_36-5_AG21-I/_article/-char/ja/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://link.springer.com/book/10.1007/978-3-030-73113-7"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://link.springer.com/chapter/10.1007/978-3-030-73113-7_22"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2021/awards.php"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2021/proceedings/html/paper/paper-P-13.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=xay5S6jU3eU"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2021/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.526942/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Psychology&id=526942"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2020/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://fss2019.j-soft.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ijcai19.org"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=zz605XzzteI&feature=youtu.be"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=zz605XzzteI"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://fss2018.j-soft.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://2018.cedec.cesa.or.jp/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://2018.cedec.cesa.or.jp/session/detail/s5ab4aeda8851c"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2018/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2018/os#os-13"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2017/session/AC/s58e0a90d982da/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.inside-games.jp/article/2017/09/05/109557.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://aiwolf.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2017/index.php"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2017/article_32900.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://fss2017.j-soft.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2017/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ieice.org/~ai/jpn/index.php/20170601"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2017/os#os-8"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/com/topics/news/6116.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2016/index.php"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/topics/news/6104.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2015/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://togetter.com/li/1025655"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://togetter.com/li/1024057"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://togetter.com/li/865407"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.amazon.co.jp/%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD-%E3%81%A0%E3%81%BE%E3%81%99%E3%83%BB%E8%A6%8B%E7%A0%B4%E3%82%8B%E3%83%BB%E8%AA%AC%E5%BE%97%E3%81%99%E3%82%8B%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD-%E9%B3%A5%E6%B5%B7-%E4%B8%8D%E4%BA%8C%E5%A4%AB/dp/4627853718/ref=sr_1_1?ie=UTF8&qid=1470011152&sr=8-1&keywords=%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.morikita.co.jp/books/book/3042"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://wirelesswire.jp/2016/01/49308/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/my-bookmark_vol31-no1/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp:8000/engineering/com/topics/news/5513.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://jaws-web.org/event/jaws2015/award"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/5303.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://fss2015.j-soft.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/com/topics/news/5262.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2015/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2015/os#os-14"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/4945.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/4765.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.tkomat-lab.com/kikaku/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.aiwolf.org/%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC1119%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/hai2014/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://jaws-web.org/event/jaws2014/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://jaws-web.org/event/jaws2014/award"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.cs.kitami-it.ac.jp/FAN2014/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/4660.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.j-soft.org/info-editer/4689/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://fss2014.j-soft.org/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ieice.org/~hcs/wiki/index.php?2014%C7%AF8%B7%EE%B8%A6%B5%E6%B2%F1"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2014/os#os-27"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/com/topics/news/4178.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/hai2013/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.svbl.muroran-it.ac.jp/seimei/event/20130527_jske_ls_symp2013.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/com/topics/news/1124.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://jaws-web.org/event/jaws2013/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/1024.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/ihai2013/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/895.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://2013.conf.ai-gakkai.or.jp/wp-content/uploads/sites/3/2013/12/OS22.pdf"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/2758.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/28/2/28_179/_article/-char/ja/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.his.gr.jp/paper/074.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ii.is.kit.ac.jp/hai2011/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.toyoag.co.jp/ieice/G_top/g_top.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.gakkai-web.net/gakkai/ieice/common/shushi.html#DS2"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai/journal/special/033.html"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.j-soft.org/info-editer/2884/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ir.his.u-fukui.ac.jp/fss2011/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai/conf/2011/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "http://tonolab.jp/hai10/"
+    },
+    {
+      "source": "en/news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/21/6/21_6_977/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://doi.org/10.3389/fcomp.2026.1806452"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/38/1/38_551/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.mdpi.com/2076-3417/15/7/3897"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://rdcu.be/d4Ov6"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/4/36_740/_article/-char/ja"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/2/36_640/_article/-char/ja"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.tandfonline.com/doi/full/10.1080/01691864.2024.2321173"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/1/36_550/_article/-char/ja"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.mdpi.com/2076-3417/13/23/12723"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/his/25/3/25_253/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/35/3/35_731/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/38/3/38_38-3_G-M35/_article/-char/ja"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/37/3/37_37-3_IDS-G/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/his/23/4/23_489/_article/-char/ja"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/36/5/36_36-5_A-L23/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/36/5/36_36-5_AG21-I/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://link.springer.com/chapter/10.1007/978-3-030-73113-7_22"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.526942/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Psychology&id=526942"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/32/1/32_523/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/31/3/31_739/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/30/5/30_753/_article/-char/ja"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/28/2/28_179/_article/-char/ja/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=JACII001600050008.xml"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=JACII001400070011.xml"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=JACII001400070008.xml"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/21/6/21_6_977/_pdf"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/21/6/21_6_1044/_pdf"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/21/5/21_5_734/_pdf"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=JACII001100080014.xml"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/10022006724"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/10016155086"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/110002675111"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/10015770222"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://dl.acm.org/doi/abs/10.1145/3472307.3484160"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/ccsr2024"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/hai2022/attendance/program/poster-sessions/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.amazon.co.jp/%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD-%E3%81%A0%E3%81%BE%E3%81%99%E3%83%BB%E8%A6%8B%E7%A0%B4%E3%82%8B%E3%83%BB%E8%AA%AC%E5%BE%97%E3%81%99%E3%82%8B%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD-%E9%B3%A5%E6%B5%B7-%E4%B8%8D%E4%BA%8C%E5%A4%AB/dp/4627853718"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.criprof.com/magazine/2019/04/04/post-5826/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/my-bookmark_vol31-no1/"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/110009884678"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "http://yumenavi.info/lecture.aspx?SearchMod=10&SerKbn=X&ProId=HTML&Page=1&GNKCD=g004871&From=YL"
+    },
+    {
+      "source": "en/paper.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "en/research.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "index.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://klikandpay.co.jp/interview-katagami/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://caresul-kaigo.jp/column/articles/34878/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.ninjal.ac.jp/event/specialists/project-meeting/m-2018/20180623-sympo/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://bungaku-report.com/blog/2018/03/ninjal90-2018327-15301730.html"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://emerging-future.org/secret/20170623/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2016/session/AC/index.html"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2015/session/AC/7649.html"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://yumenavi.info/lecture.aspx?SearchMod=10&SerKbn=X&ProId=HTML&Page=1&GNKCD=g004871&From=YL"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.j-soft.org/node/1496"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2024/ks#ks-8"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.inlg2019.com/workshop"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://aiwolfdial.kanolab.net/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2019/os#os-14"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2018/os/#os-13"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2017/os/#os-8"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2016/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2016/os#os-29"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://kaigi.org/jsai/webprogram/2016/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2015/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2015/os#os-14"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://kaigi.org/jsai/webprogram/2015/session-118.html"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.cs.kitami-it.ac.jp/FAN2014/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://m-yuasa.net/hai/hai2014os.html"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://dl.acm.org/citation.cfm?id=2662952&dl=ACM&coll=DL&CFID=718232268&CFTOKEN=14606135"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2014/os#os-27"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://kaigi.org/jsai/webprogram/2014/index.html#8"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://fss2013.j-soft.org/session/organized/"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://fss2013.j-soft.org/program/FSS2013-program(20130917).pdf"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "http://2013.conf.ai-gakkai.or.jp/os#os-22"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://kaigi.org/jsai/webprogram/2013/index.html"
+    },
+    {
+      "source": "katagami.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "lecture.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "member.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/tomokimiyamoto/home"
+    },
+    {
+      "source": "member.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://neuro-diversity.world/report/interview_2026_katagami/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://neuro-diversity.world/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=sP2t2BgDfRc"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://lc-holdings.co.jp/interview-katagami/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://lc-holdings.co.jp/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://iceic.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://prtimes.jp/main/html/rd/p/000000024.000126992.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://taai2025.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/hai2025/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://soft-cr.org/fss/2025/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://neuro-diversity.world/minnou2025/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://neurodiversityawards.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2025/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/about/award/jsai_award-conf/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_2D5GS905/_article/-char/ja"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://knowledge-art.co.jp/interview-katagami/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://knowledge-art.co.jp/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://knowledge-art.co.jp/category/interview/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_3R1OS4503/_article/-char/ja"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2025/awards.php"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2025/article_86152.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2025/proceedings/html/paper/paper-G-30.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/4/36_740/_article/-char/ja"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://klikandpay.co.jp/interview-katagami/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://klikandpay.co.jp/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://siai.jp/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://siai.jp/program/lab-booth"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://siai.jp/program/1h-internship"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/fan2024"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/sapientia.inf.shizuoka.ac.jp/ccws2024/home?authuser=0"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://exidea.co.jp/so-gud/technology/t-kougei/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://exidea.co.jp/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://exidea.co.jp/so-gud/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2024/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2024/ks#ks-8"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/2/36_640/_article/-char/ja"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://jp.his.gr.jp/2023/04/11/transaction-specialissue2602/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://caresul-kaigo.jp/column/articles/34878/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2024/schedule.p"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/ccsr2024"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.anlp.jp/nlp2023/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2023/article_85470.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://om.hmup.jp/6sFqs/dGtvdWdlaS1pbmZvQHN3LWFzc2lzdC5jb20zNmE1ODYyZjI5ZmRhNjkzYmVhYTFhZmIxYzE0YjY1NTkxYThlYzhiZGE0OGU0Y2IzYmI5NTgwYmRkNWI1OTUz"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2023/proceedings/html/paper/paper-D-2.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2023/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ipsj.or.jp/event/taikai/85/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.hcg-ieice.org/hcg-symposium/2022/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2023/article_85395.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/dslc5"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2022/article_85307.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://soft-cr.org/fss/2022/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.commu-ai.org/activity/20220701.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.miraikan.jst.go.jp/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/37/3/37_37-3_IDS-G/_article/-char/ja/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/his/23/4/23_489/_article/-char/ja"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/hai2021/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2021/article_84935.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://dl.acm.org/doi/abs/10.1145/3472307.3484160"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=QkMHaZuHU1Y"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/36/5/36_36-5_A-L23/_article/-char/ja/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/36/5/36_36-5_AG21-I/_article/-char/ja/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://link.springer.com/book/10.1007/978-3-030-73113-7"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://link.springer.com/chapter/10.1007/978-3-030-73113-7_22"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2021/awards.php"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/symp2021/proceedings/html/paper/paper-P-13.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=xay5S6jU3eU"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2021/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.526942/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Psychology&id=526942"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2020/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://fss2019.j-soft.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ijcai19.org"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=zz605XzzteI&feature=youtu.be"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.youtube.com/watch?v=zz605XzzteI"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://fss2018.j-soft.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://2018.cedec.cesa.or.jp/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://2018.cedec.cesa.or.jp/session/detail/s5ab4aeda8851c"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2018/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2018/os#os-13"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://cedec.cesa.or.jp/2017/session/AC/s58e0a90d982da/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.inside-games.jp/article/2017/09/05/109557.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://aiwolf.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2017/index.php"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/activity/archives/2017/article_32900.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://fss2017.j-soft.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2017/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ieice.org/~ai/jpn/index.php/20170601"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2017/os#os-8"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/com/topics/news/6116.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2016/index.php"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/topics/news/6104.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/symp2015/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://togetter.com/li/1025655"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://togetter.com/li/1024057"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://togetter.com/li/865407"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.amazon.co.jp/%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD-%E3%81%A0%E3%81%BE%E3%81%99%E3%83%BB%E8%A6%8B%E7%A0%B4%E3%82%8B%E3%83%BB%E8%AA%AC%E5%BE%97%E3%81%99%E3%82%8B%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD-%E9%B3%A5%E6%B5%B7-%E4%B8%8D%E4%BA%8C%E5%A4%AB/dp/4627853718/ref=sr_1_1?ie=UTF8&qid=1470011152&sr=8-1&keywords=%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.morikita.co.jp/books/book/3042"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://wirelesswire.jp/2016/01/49308/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/my-bookmark_vol31-no1/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp:8000/engineering/com/topics/news/5513.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://jaws-web.org/event/jaws2015/award"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/5303.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://fss2015.j-soft.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/com/topics/news/5262.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.ai-gakkai.or.jp/jsai2015/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2015/os#os-14"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/4945.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/4765.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.tkomat-lab.com/kikaku/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.aiwolf.org/%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC1119%E3%81%AE%E3%81%94%E5%A0%B1%E5%91%8A/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/hai2014/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://jaws-web.org/event/jaws2014/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://jaws-web.org/event/jaws2014/award"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.cs.kitami-it.ac.jp/FAN2014/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/4660.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.j-soft.org/info-editer/4689/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://fss2014.j-soft.org/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ieice.org/~hcs/wiki/index.php?2014%C7%AF8%B7%EE%B8%A6%B5%E6%B2%F1"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai2014/os#os-27"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/com/topics/news/4178.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/hai2013/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.svbl.muroran-it.ac.jp/seimei/event/20130527_jske_ls_symp2013.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/engineering/com/topics/news/1124.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://jaws-web.org/event/jaws2013/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/1024.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://hai-conference.net/ihai2013/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/895.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://2013.conf.ai-gakkai.or.jp/wp-content/uploads/sites/3/2013/12/OS22.pdf"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.t-kougei.ac.jp/topics/news/2758.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/28/2/28_179/_article/-char/ja/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.his.gr.jp/paper/074.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ii.is.kit.ac.jp/hai2011/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.toyoag.co.jp/ieice/G_top/g_top.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.gakkai-web.net/gakkai/ieice/common/shushi.html#DS2"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai/journal/special/033.html"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.j-soft.org/info-editer/2884/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ir.his.u-fukui.ac.jp/fss2011/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/jsai/conf/2011/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "http://tonolab.jp/hai10/"
+    },
+    {
+      "source": "news.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/21/6/21_6_977/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://doi.org/10.3389/fcomp.2026.1806452"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/38/1/38_551/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.mdpi.com/2076-3417/15/7/3897"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://rdcu.be/d4Ov6"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/4/36_740/_article/-char/ja"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/2/36_640/_article/-char/ja"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.tandfonline.com/doi/full/10.1080/01691864.2024.2321173"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/36/1/36_550/_article/-char/ja"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.mdpi.com/2076-3417/13/23/12723"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/his/25/3/25_253/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/35/3/35_731/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/38/3/38_38-3_G-M35/_article/-char/ja"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/37/3/37_37-3_IDS-G/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/his/23/4/23_489/_article/-char/ja"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/36/5/36_36-5_A-L23/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/36/5/36_36-5_AG21-I/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://link.springer.com/chapter/10.1007/978-3-030-73113-7_22"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.526942/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Psychology&id=526942"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/32/1/32_523/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/31/3/31_739/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/30/5/30_753/_article/-char/ja"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/tjsai/28/2/28_179/_article/-char/ja/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=JACII001600050008.xml"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=JACII001400070011.xml"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=JACII001400070008.xml"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/21/6/21_6_977/_pdf"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/21/6/21_6_1044/_pdf"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.jstage.jst.go.jp/article/jsoft/21/5/21_5_734/_pdf"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://www.fujipress.jp/finder/xslt.php?mode=present&inputfile=JACII001100080014.xml"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/10022006724"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/10016155086"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/110002675111"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/10015770222"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://dl.acm.org/doi/abs/10.1145/3472307.3484160"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://sites.google.com/view/ccsr2024"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://hai-conference.net/hai2022/attendance/program/poster-sessions/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.amazon.co.jp/%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD-%E3%81%A0%E3%81%BE%E3%81%99%E3%83%BB%E8%A6%8B%E7%A0%B4%E3%82%8B%E3%83%BB%E8%AA%AC%E5%BE%97%E3%81%99%E3%82%8B%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD-%E9%B3%A5%E6%B5%B7-%E4%B8%8D%E4%BA%8C%E5%A4%AB/dp/4627853718"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.criprof.com/magazine/2019/04/04/post-5826/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://www.ai-gakkai.or.jp/my-bookmark_vol31-no1/"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://ci.nii.ac.jp/naid/110009884678"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "http://yumenavi.info/lecture.aspx?SearchMod=10&SerKbn=X&ProId=HTML&Page=1&GNKCD=g004871&From=YL"
+    },
+    {
+      "source": "paper.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    },
+    {
+      "source": "research.html",
+      "kind": "a[href]",
+      "target": "https://www.t-kougei.ac.jp/"
+    }
+  ],
+  "root_relative_references": [],
+  "unsupported_features": [],
+  "oversized_files": []
+}

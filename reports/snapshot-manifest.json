@@ -1,0 +1,377 @@
+{
+  "captured_date_utc": "2026-10-19",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "source_url": null,
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "access.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/access.html",
+      "bytes": 3644,
+      "sha256": "733301120afb48809896282ca2255e4e6230ec57b31f614db61d20725359ee98"
+    },
+    {
+      "path": "assign.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/assign.html",
+      "bytes": 4919,
+      "sha256": "e8d7e4c92ce00e3e24b83f1507a490a65d3d3b141684911102cce2ad66a7bbf5"
+    },
+    {
+      "path": "design-preview.css",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/design-preview.css",
+      "bytes": 11081,
+      "sha256": "58b7f687cea57d0ec54ec0fb47fc07354343b46de2f4697a265718f28c0d0408"
+    },
+    {
+      "path": "design-preview.js",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/design-preview.js",
+      "bytes": 3051,
+      "sha256": "f362efae7b441e34e88f94bbc8ce6cb61c6ece457087957f13e7e45d5da1af7a"
+    },
+    {
+      "path": "design-refinements.css",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/design-refinements.css",
+      "bytes": 22884,
+      "sha256": "7f3dae91bc5d6ad263bb5d6caf2f96ff53cb20e323b06397307367603caf0a97"
+    },
+    {
+      "path": "en/access.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/access.html",
+      "bytes": 3790,
+      "sha256": "18313a787a829e33997ab36ea99537b94a7a9c55c02a108d1c834bd2a9fdd4f0"
+    },
+    {
+      "path": "en/assign.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/assign.html",
+      "bytes": 4406,
+      "sha256": "01eb43d381b360d496460a80f2148d0c2b0cc29608288be4e043e53989acd657"
+    },
+    {
+      "path": "en/index.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/index.html",
+      "bytes": 12719,
+      "sha256": "e29fcbe60cd228ebb53aa9d647e53221fd180244f3dcf2a132f0bee7d76d08c5"
+    },
+    {
+      "path": "en/katagami.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/katagami.html",
+      "bytes": 37246,
+      "sha256": "53c97f5a8bb725c8b48d3ee1c13595053061f16b1068808133ed423e653cceb4"
+    },
+    {
+      "path": "en/lecture.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/lecture.html",
+      "bytes": 23600,
+      "sha256": "755c4ca9a6410b45ca10f1dfff3debac87ece0b39332480217824a71a2ffd4fa"
+    },
+    {
+      "path": "en/member.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/member.html",
+      "bytes": 37195,
+      "sha256": "13987e3743f876e519f3ba78f9c342eb79e85546ffcf0b82aab978bff22f2b1f"
+    },
+    {
+      "path": "en/news.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/news.html",
+      "bytes": 96240,
+      "sha256": "f8e61ae3091f8c253e63c707865a969e46e1da9d9e1e92293d5b6397fecf25c0"
+    },
+    {
+      "path": "en/paper.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/paper.html",
+      "bytes": 194506,
+      "sha256": "fda7d1116fc4b46df79dd4fe25edf9f3c544fd005cd31d29a44b5e8cdb521eae"
+    },
+    {
+      "path": "en/research.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/en/research.html",
+      "bytes": 9981,
+      "sha256": "337679fe1080d9baac12972f7e593cca4c45aca9bd0e5b9a33d7df5886c495e5"
+    },
+    {
+      "path": "english.css",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/english.css",
+      "bytes": 2446,
+      "sha256": "dbc73763ffbdbf3bfd4c376392623c0ea1ca503024f3dfaf4cbf4b3e8c71e6a0"
+    },
+    {
+      "path": "hero-motion.js",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/hero-motion.js",
+      "bytes": 5479,
+      "sha256": "2eb184c7b98099b88dbba433ba5a6d9d1117ad55a08e85889ec70fa5e14b1cae"
+    },
+    {
+      "path": "img/20170829CEDEC2017.JPG",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/20170829CEDEC2017.JPG",
+      "bytes": 4385280,
+      "sha256": "23ada9afea527ab22232db44e4fce2d4661130c0fdc29afd8c6a5353fa6279d8"
+    },
+    {
+      "path": "img/20170829CEDEC2017s.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/20170829CEDEC2017s.jpg",
+      "bytes": 42224,
+      "sha256": "88b00520bee83890fd587bdd6f27e1621b3c0d2b42624d073f7d05d67bdeb0ea"
+    },
+    {
+      "path": "img/20170920J-WAVEV-STEP-ONEs.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/20170920J-WAVEV-STEP-ONEs.jpg",
+      "bytes": 29059,
+      "sha256": "5891343a19a0b11701cbb2c60097619bf32eb7158303d471562288178d84624f"
+    },
+    {
+      "path": "img/20171212-HAIシンポジウム宮本表彰.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/20171212-HAI%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E5%AE%AE%E6%9C%AC%E8%A1%A8%E5%BD%B0.jpg",
+      "bytes": 35487,
+      "sha256": "e3c08cb1b804dd19af412c438b42e07f1b41103f0ad976d81a18ae50441d8d48"
+    },
+    {
+      "path": "img/20220914FSS松尾.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/20220914FSS%E6%9D%BE%E5%B0%BE.jpg",
+      "bytes": 23308,
+      "sha256": "77897b1ef89a2ba82d1f2257f5d0805b2849c17e1dc0d589e702dfd9dada0593"
+    },
+    {
+      "path": "img/CEDEC2015サムネイル.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/CEDEC2015%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB.jpg",
+      "bytes": 9078,
+      "sha256": "9a125a79fe770d388703f137940e13d024864b24ef2dca7b6eeb46686ee4ff55"
+    },
+    {
+      "path": "img/CEDEC2018DEMOs.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/CEDEC2018DEMOs.jpg",
+      "bytes": 21858,
+      "sha256": "dbda9c0a5033ac2a2584f25c82ebfd43541c1575f4d3ad877d983a39ddbd442a"
+    },
+    {
+      "path": "img/ClickandPay-katagami.png",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/ClickandPay-katagami.png",
+      "bytes": 862437,
+      "sha256": "163858c4c887a603cb31ce27729223729cf3ed81a55ac916470fd63f099bd08c"
+    },
+    {
+      "path": "img/DrivingSimulator.JPG",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/DrivingSimulator.JPG",
+      "bytes": 2806101,
+      "sha256": "ca60f5c4cf298edfc83bf05cd4ff68ea19d9bb5955c8623591c3078fc7778b70"
+    },
+    {
+      "path": "img/FSS2018miyamoto_s.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/FSS2018miyamoto_s.jpg",
+      "bytes": 28271,
+      "sha256": "cecac454517b4109a6851f320616227868effe45c02fc90206b8415e8e352c88"
+    },
+    {
+      "path": "img/FSS2025 優秀発表賞_坂本様.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/FSS2025%20%E5%84%AA%E7%A7%80%E7%99%BA%E8%A1%A8%E8%B3%9E_%E5%9D%82%E6%9C%AC%E6%A7%98.jpg",
+      "bytes": 363948,
+      "sha256": "c708a50f8e6c0d27a86ff7c387f70a04844e26a5a19959e3e673b87a1972b483"
+    },
+    {
+      "path": "img/HAI2023授賞式.JPG",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/HAI2023%E6%8E%88%E8%B3%9E%E5%BC%8F.JPG",
+      "bytes": 1268229,
+      "sha256": "3445ac723b7856c71c9cda15e467a8849cc5a340d07db53fce938c8442ceb64b"
+    },
+    {
+      "path": "img/HAI2025presentation.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/HAI2025presentation.jpg",
+      "bytes": 899425,
+      "sha256": "c84d65847497cd53d1211c26422c1b1413102f22aeb7027fa286d971f7ef454f"
+    },
+    {
+      "path": "img/JSAI2018s.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/JSAI2018s.jpg",
+      "bytes": 30850,
+      "sha256": "11564cee42fc86ef5f1eecad963770bf9b12bb944c9160f2050ab8796d1939c2"
+    },
+    {
+      "path": "img/LCAssetDesign-扉.png",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/LCAssetDesign-%E6%89%89.png",
+      "bytes": 1049764,
+      "sha256": "9b0430e048c10628e34e1911a958c6a6b95de873246df875c1feb121c745129e"
+    },
+    {
+      "path": "img/SmartHome.JPG",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/SmartHome.JPG",
+      "bytes": 3051281,
+      "sha256": "48f5fd6c555f131a1109794328235bbed39f7141f9a4418e665742bb33209e54"
+    },
+    {
+      "path": "img/and2_6.1.1.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/and2_6.1.1.jpg",
+      "bytes": 1146149,
+      "sha256": "72cd2b1e44951fe7ae5824c159924a7cd5c15009bfb20430f9867ffea73fd529"
+    },
+    {
+      "path": "img/human-ai-symbiosis-hero.png",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/human-ai-symbiosis-hero.png",
+      "bytes": 2071446,
+      "sha256": "460a8caff7095a57934e21a4332cca63a87e1dc57f8f5bae6b83b7ac7586dbf3"
+    },
+    {
+      "path": "img/katagami_address_it2.png",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/katagami_address_it2.png",
+      "bytes": 4194,
+      "sha256": "aad470ad5787875b60795e202bc0ddd083016844fa75c34050c7e1b9cce0f5af"
+    },
+    {
+      "path": "img/relationship-dialogue-trust.png",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/relationship-dialogue-trust.png",
+      "bytes": 1999961,
+      "sha256": "3edbf13316d6d2d6aa6cf3afa39c69e519f1b9dbe629220f56fd48b9ded09eb4"
+    },
+    {
+      "path": "img/research-atmosphere.svg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/research-atmosphere.svg",
+      "bytes": 1386,
+      "sha256": "177e9b26283e74b095e5e1c2c6b1f3ef491181282ac83647efc7e62e196a6e45"
+    },
+    {
+      "path": "img/research-information.svg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/research-information.svg",
+      "bytes": 1245,
+      "sha256": "651f7353f54c2048b42f98011f95a0a93404f427da57a95a97734289a0308261"
+    },
+    {
+      "path": "img/t-kougei_IC.png",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/t-kougei_IC.png",
+      "bytes": 38591,
+      "sha256": "90f43c35e4d5dee03738c00da42d02b43a17e9d258639a21568b2b47321a8599"
+    },
+    {
+      "path": "img/みんなの脳世界スタッフ.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E8%84%B3%E4%B8%96%E7%95%8C%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95.jpg",
+      "bytes": 2760232,
+      "sha256": "f36f8ab3c942826bc4959a1d2b1427763c01fb1c82757bfcb0b8b11316fe250f"
+    },
+    {
+      "path": "img/みんなの脳世界受賞片上.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E8%84%B3%E4%B8%96%E7%95%8C%E5%8F%97%E8%B3%9E%E7%89%87%E4%B8%8A.jpg",
+      "bytes": 1393040,
+      "sha256": "ce57e5a44bea32d29ffd9c331fefa06cd192c4901aa7a8df7c40b707b17cf90e"
+    },
+    {
+      "path": "img/みんなの脳世界受賞賞状.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E8%84%B3%E4%B8%96%E7%95%8C%E5%8F%97%E8%B3%9E%E8%B3%9E%E7%8A%B6.jpg",
+      "bytes": 1196415,
+      "sha256": "6a94614cbee2a72bdbf50ecd86857805629e65e74a7d32167ae6a55d1f1ac014"
+    },
+    {
+      "path": "img/みんなの脳科学展示.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E8%84%B3%E7%A7%91%E5%AD%A6%E5%B1%95%E7%A4%BA.jpg",
+      "bytes": 1297733,
+      "sha256": "c977552f2e4230f1702c8d58efd2b3dbfc9addfcd6d016b6fb425b319b46e8b7"
+    },
+    {
+      "path": "img/アカデミア賞.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%82%A2%E8%B3%9E.jpg",
+      "bytes": 1777446,
+      "sha256": "336c6cbe553998e710f3e225d337c5f6726336ee93b0e04e83713fa9e829b9ef"
+    },
+    {
+      "path": "img/ケアスル介護【アイキャッチ】片上.png",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E3%82%B1%E3%82%A2%E3%82%B9%E3%83%AB%E4%BB%8B%E8%AD%B7%E3%80%90%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%80%91%E7%89%87%E4%B8%8A.png",
+      "bytes": 429168,
+      "sha256": "e12956c8cf6cfc3cfbec9fb22874cee9b2bee5406637c1e2f6de288225cb3ea5"
+    },
+    {
+      "path": "img/コンペティションの様子.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E3%82%B3%E3%83%B3%E3%83%9A%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AE%E6%A7%98%E5%AD%90.jpg",
+      "bytes": 2112835,
+      "sha256": "92ad2f832eaf96eef7d53164278e9041f601b6c7b2d73bc2b98e48e509d13f0c"
+    },
+    {
+      "path": "img/ビジネスデザイン賞.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E8%B3%9E.jpg",
+      "bytes": 1712266,
+      "sha256": "35a3712c25dede1dfe8649f73093b851b181b7cb3466beb62d0f75dd75b73fc3"
+    },
+    {
+      "path": "img/人狼知能.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E4%BA%BA%E7%8B%BC%E7%9F%A5%E8%83%BD.jpg",
+      "bytes": 5957,
+      "sha256": "cd197497e22df54021fb19044fb1680a7c41a3d9bd772168c95d3c6f471c47df"
+    },
+    {
+      "path": "img/李君受賞1.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E6%9D%8E%E5%90%9B%E5%8F%97%E8%B3%9E1.jpg",
+      "bytes": 725448,
+      "sha256": "72a73928a1b38106026f7efd62974b16a3332871a1e1632eb193f7ab20d9bf86"
+    },
+    {
+      "path": "img/李君受賞2.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E6%9D%8E%E5%90%9B%E5%8F%97%E8%B3%9E2.jpg",
+      "bytes": 637753,
+      "sha256": "61bec881523b8a812483291c0b2f62ccb9447ad6e1e1ab7822478d831a7ec9bd"
+    },
+    {
+      "path": "img/林教授訪問202510_02.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E6%9E%97%E6%95%99%E6%8E%88%E8%A8%AA%E5%95%8F202510_02.jpg",
+      "bytes": 2328182,
+      "sha256": "511e7a3b7d2d41d8169b056eb8626c47d4806ab891ee9762938742fe8107ab6f"
+    },
+    {
+      "path": "img/片上取材タイトル画像.png",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E7%89%87%E4%B8%8A%E5%8F%96%E6%9D%90%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E7%94%BB%E5%83%8F.png",
+      "bytes": 668345,
+      "sha256": "dfa46c0f14c8679dcb7baa4cb1d41468ccc0b39a3ea0dd09ca7628cabeda28f9"
+    },
+    {
+      "path": "img/特集号用写真ー片上.jpg",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/img/%E7%89%B9%E9%9B%86%E5%8F%B7%E7%94%A8%E5%86%99%E7%9C%9F%E3%83%BC%E7%89%87%E4%B8%8A.jpg",
+      "bytes": 1583906,
+      "sha256": "815293f5d4352529169cdb0d89bf5567d426324c0f87c65c61c59133405299cd"
+    },
+    {
+      "path": "index.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/index.html",
+      "bytes": 13030,
+      "sha256": "23b45bfffb7473c86245ba5fa860b36f2086480528ea221ceb6f49bff8867062"
+    },
+    {
+      "path": "katagami.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/katagami.html",
+      "bytes": 37910,
+      "sha256": "d3c94cdee853d2932de22784f62b0488aa007e230627bc8b10f035f91e7b24f4"
+    },
+    {
+      "path": "lecture.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/lecture.html",
+      "bytes": 23194,
+      "sha256": "9e9aca11d0578339066a23e8e97a8bfed9e74f5e271133a4bf06bfebb4133c82"
+    },
+    {
+      "path": "member.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/member.html",
+      "bytes": 39599,
+      "sha256": "37a548d4fabbe315b63a6e9e441d563d23b6da35931f46cd12af5e195c45a780"
+    },
+    {
+      "path": "news.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/news.html",
+      "bytes": 101119,
+      "sha256": "046c16a852d5e60f0202298a620137fdc488c6924720df12979c686022cc698a"
+    },
+    {
+      "path": "paper.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/paper.html",
+      "bytes": 139281,
+      "sha256": "5ca5a36945db106af89da06a9d39bd6b9ca3556eed05af5521f85b4d046ec535"
+    },
+    {
+      "path": "research.html",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/research.html",
+      "bytes": 10386,
+      "sha256": "eff6f2c637ce254a2bface9509def6a8ccea2e1be1690aeaa27186894b8fdc1a"
+    },
+    {
+      "path": "site-pages.css",
+      "source_url": "https://www.hss.cs.t-kougei.ac.jp/site-pages.css",
+      "bytes": 7256,
+      "sha256": "8d9c5be8fa974ab800f7a18ecce857618d3934b0a6ade2382750f4f0616584c7"
+    }
+  ]
+}

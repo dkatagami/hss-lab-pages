@@ -1,0 +1,116 @@
+{
+  "base_url": "http://127.0.0.1:8765/site/",
+  "browser": "Chromium",
+  "pages": [
+    {
+      "page": "access.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "assign.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/access.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/assign.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/index.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/katagami.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/lecture.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/member.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/news.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/paper.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "en/research.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "index.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "katagami.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "lecture.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "member.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "news.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "paper.html",
+      "status": 200,
+      "broken_images": []
+    },
+    {
+      "page": "research.html",
+      "status": 200,
+      "broken_images": []
+    }
+  ],
+  "javascript_errors": [],
+  "http_errors": [],
+  "checks": [
+    "all 18 pages served under a subdirectory",
+    "images load",
+    "mobile menu opens and Escape closes it",
+    "Japanese and English publication search",
+    "news category filter",
+    "hero canvas animation"
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "width": 390,
+      "height": 844
+    }
+  ]
+}

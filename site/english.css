@@ -1,0 +1,33 @@
+/* English uses the same layout and visual identity as the Japanese site. */
+html[lang="en"] body { font-family:var(--font-body);letter-spacing:0;line-height:1.75; }
+html[lang="en"] h1,html[lang="en"] h2,html[lang="en"] h3,html[lang="en"] h4 { font-family:var(--font-body);letter-spacing:-.015em; }
+html[lang="en"] .brand { font-family:var(--font-body);letter-spacing:0; }
+html[lang="en"] .page-content,html[lang="en"] .legacy-content { font-weight:400;letter-spacing:0;line-height:1.8; }
+html[lang="en"] body[data-language="en"],html[lang="en"] body[data-language="en"] .legacy-content { font-weight:400; }
+html[lang="en"] .legacy-content li,html[lang="en"] body[data-page="paper.html"] .legacy-content ol>li { line-height:1.8; }
+html[lang="en"] .hero-description,html[lang="en"] .about p,html[lang="en"] .professor p:not(.section-label),html[lang="en"] .card-body>p:not(.eyebrow) { line-height:1.8;letter-spacing:0; }
+html[lang="en"] .header nav,html[lang="en"] .page-toc a { font-weight:600;letter-spacing:0; }
+html[lang="en"] .news-row h3 { font-family:var(--font-body);font-weight:500;letter-spacing:0;line-height:1.7; }
+html[lang="en"] #navigation { gap: clamp(.65rem, 1.1vw, 1.25rem); }
+html[lang="en"] h1, html[lang="en"] h2, html[lang="en"] h3 { word-break: normal; overflow-wrap: normal; }
+html[lang="en"] .page-title { line-height: 1.18; }
+html[lang="en"] .legacy-content { overflow-wrap: anywhere; }
+.translation-note { margin: 0 0 1.5rem; padding: 1rem 1.2rem; color: #314c43; background: #f2f6f3; border-left: 3px solid #527b66; font-size: 1rem; line-height: 1.8; }
+.citation-links { display: flex; flex-wrap: wrap; gap: .4rem 1rem; margin-top: .45rem; font-size: 15px; }
+.citation-links a { color: #31594b; text-decoration: underline; text-underline-offset: .2em; }
+html[lang="en"] .section-label { letter-spacing: .08em; }
+@media (max-width: 1100px) {
+  html[lang="en"] .header { gap: 1rem; }
+  html[lang="en"] #navigation { gap: .7rem; }
+}
+@media (min-width: 761px) and (max-width: 1500px) {
+  html[lang="en"] .header { flex-wrap: wrap; }
+  html[lang="en"] #navigation { width: 100%; flex-wrap: wrap; }
+}
+@media (max-width: 760px) {
+  html[lang="en"] .brand { width: 100%; flex-shrink: 1; font-size: 18px; line-height: 1.4; }
+  html[lang="en"] .brand .mark { flex-shrink: 0; }
+  html[lang="en"] .brand small { letter-spacing: 0; }
+  html[lang="en"] .menu-toggle { margin-left: auto; }
+  html[lang="en"] #navigation { gap: 0; }
+}
