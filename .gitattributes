@@ -1,4 +1,7 @@
-site/** -text
+*.html -text
+*.css -text
+*.js -text
+img/** -text
 *.py text eol=lf
 *.md text eol=lf
 *.yml text eol=lf

@@ -1,0 +1,490 @@
+{
+  "checked_at_utc": "2026-10-20T11:19:55.017028+00:00",
+  "origin": "https://www.hss.cs.t-kougei.ac.jp/",
+  "summary": {
+    "files": 62,
+    "unchanged_since_import": 62,
+    "origin_matches": 29,
+    "differences": [
+      "en/index.html",
+      "en/katagami.html",
+      "en/member.html",
+      "en/news.html",
+      "index.html",
+      "katagami.html",
+      "member.html",
+      "news.html"
+    ],
+    "errors": [
+      {
+        "path": "img/20170829CEDEC2017.JPG",
+        "unchanged_since_import": true,
+        "error": "The read operation timed out"
+      },
+      {
+        "path": "img/20171212-HAIシンポジウム宮本表彰.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/20220914FSS松尾.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/CEDEC2015サムネイル.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/DrivingSimulator.JPG",
+        "unchanged_since_import": true,
+        "error": "The read operation timed out"
+      },
+      {
+        "path": "img/FSS2025 優秀発表賞_坂本様.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/HAI2023授賞式.JPG",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/HAI2025presentation.jpg",
+        "unchanged_since_import": true,
+        "error": "The read operation timed out"
+      },
+      {
+        "path": "img/LCAssetDesign-扉.png",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/SmartHome.JPG",
+        "unchanged_since_import": true,
+        "error": "The read operation timed out"
+      },
+      {
+        "path": "img/みんなの脳世界スタッフ.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/みんなの脳世界受賞片上.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/みんなの脳世界受賞賞状.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/みんなの脳科学展示.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/アカデミア賞.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/ケアスル介護【アイキャッチ】片上.png",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/コンペティションの様子.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/ビジネスデザイン賞.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/人狼知能.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/李君受賞1.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/李君受賞2.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/林教授訪問202510_02.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/片上取材タイトル画像.png",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      },
+      {
+        "path": "img/特集号用写真ー片上.jpg",
+        "unchanged_since_import": true,
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  "files": [
+    {
+      "path": ".nojekyll",
+      "unchanged_since_import": true,
+      "comparison": "deployment_marker"
+    },
+    {
+      "path": "access.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "assign.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "design-preview.css",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "design-preview.js",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "design-refinements.css",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "en/access.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "en/assign.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "en/index.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": false
+    },
+    {
+      "path": "en/katagami.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": false
+    },
+    {
+      "path": "en/lecture.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "en/member.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": false
+    },
+    {
+      "path": "en/news.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": false
+    },
+    {
+      "path": "en/paper.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "en/research.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "english.css",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "hero-motion.js",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/20170829CEDEC2017.JPG",
+      "unchanged_since_import": true,
+      "error": "The read operation timed out"
+    },
+    {
+      "path": "img/20170829CEDEC2017s.jpg",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/20170920J-WAVEV-STEP-ONEs.jpg",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/20171212-HAIシンポジウム宮本表彰.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/20220914FSS松尾.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/CEDEC2015サムネイル.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/CEDEC2018DEMOs.jpg",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/ClickandPay-katagami.png",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/DrivingSimulator.JPG",
+      "unchanged_since_import": true,
+      "error": "The read operation timed out"
+    },
+    {
+      "path": "img/FSS2018miyamoto_s.jpg",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/FSS2025 優秀発表賞_坂本様.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/HAI2023授賞式.JPG",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/HAI2025presentation.jpg",
+      "unchanged_since_import": true,
+      "error": "The read operation timed out"
+    },
+    {
+      "path": "img/JSAI2018s.jpg",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/LCAssetDesign-扉.png",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/SmartHome.JPG",
+      "unchanged_since_import": true,
+      "error": "The read operation timed out"
+    },
+    {
+      "path": "img/and2_6.1.1.jpg",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/human-ai-symbiosis-hero.png",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/katagami_address_it2.png",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/relationship-dialogue-trust.png",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/research-atmosphere.svg",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/research-information.svg",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/t-kougei_IC.png",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    },
+    {
+      "path": "img/みんなの脳世界スタッフ.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/みんなの脳世界受賞片上.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/みんなの脳世界受賞賞状.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/みんなの脳科学展示.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/アカデミア賞.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/ケアスル介護【アイキャッチ】片上.png",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/コンペティションの様子.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/ビジネスデザイン賞.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/人狼知能.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/李君受賞1.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/李君受賞2.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/林教授訪問202510_02.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/片上取材タイトル画像.png",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "img/特集号用写真ー片上.jpg",
+      "unchanged_since_import": true,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "path": "index.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": false
+    },
+    {
+      "path": "katagami.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": false
+    },
+    {
+      "path": "lecture.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "member.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": false
+    },
+    {
+      "path": "news.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": false
+    },
+    {
+      "path": "paper.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "research.html",
+      "unchanged_since_import": true,
+      "comparison": "html_content_structure_and_resolved_links",
+      "matches_origin": true
+    },
+    {
+      "path": "site-pages.css",
+      "unchanged_since_import": true,
+      "comparison": "identical_bytes",
+      "matches_origin": true
+    }
+  ]
+}

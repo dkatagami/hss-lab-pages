@@ -44,7 +44,12 @@ class Document(HTMLParser):
 
 
 def audit(site):
-    files = sorted(path for path in site.rglob("*") if path.is_file())
+    # Only audit published site files, excluding Git and maintenance records.
+    files = sorted(path for path in site.rglob("*") if path.is_file()
+                   and not any(part.startswith(".") or part in ("scripts", "reports")
+                               for part in path.relative_to(site).parts[:-1])
+                   and (path.suffix.lower() in (".html", ".htm", ".css", ".js", ".jpg", ".jpeg", ".png", ".svg", ".gif", ".webp", ".ico", ".pdf", ".woff", ".woff2")
+                        or path.name == ".nojekyll"))
     docs = {p: Document(p.read_text(encoding="utf-8-sig")) for p in files if p.suffix.lower() in (".html", ".htm")}
     missing, anchors, remote_origin, external, unsupported, root_relative = [], [], [], [], [], []
     local_count = 0
@@ -97,7 +102,7 @@ def audit(site):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--site", type=Path, default=ROOT / "site")
+    parser.add_argument("--site", type=Path, default=ROOT)
     parser.add_argument("--report", type=Path)
     args = parser.parse_args()
     site = args.site.resolve()
