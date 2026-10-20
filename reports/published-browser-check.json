@@ -1,0 +1,139 @@
+{
+  "base_url": "https://dkatagami.github.io/hss-lab-pages/",
+  "date": "2026-10-20",
+  "pages": [
+    {
+      "broken": [],
+      "images": 7,
+      "main": true,
+      "path": "/hss-lab-pages/index.html",
+      "title": "人とAIの、その先の関係へ。 | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 2,
+      "main": true,
+      "path": "/hss-lab-pages/katagami.html",
+      "title": "片上大輔 | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 6,
+      "main": true,
+      "path": "/hss-lab-pages/research.html",
+      "title": "研究テーマ | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 32,
+      "main": true,
+      "path": "/hss-lab-pages/news.html",
+      "title": "ニュース | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 1,
+      "main": true,
+      "path": "/hss-lab-pages/member.html",
+      "title": "メンバー | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 0,
+      "main": true,
+      "path": "/hss-lab-pages/paper.html",
+      "title": "研究業績 | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 1,
+      "main": true,
+      "path": "/hss-lab-pages/assign.html",
+      "title": "配属希望の方へ | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 0,
+      "main": true,
+      "path": "/hss-lab-pages/lecture.html",
+      "title": "講義 | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 0,
+      "main": true,
+      "path": "/hss-lab-pages/access.html",
+      "title": "アクセス | 片上研究室"
+    },
+    {
+      "broken": [],
+      "images": 7,
+      "main": true,
+      "path": "/hss-lab-pages/en/index.html",
+      "title": "Beyond Interaction, Toward Symbiosis | Katagami Lab."
+    },
+    {
+      "broken": [],
+      "images": 2,
+      "main": true,
+      "path": "/hss-lab-pages/en/katagami.html",
+      "title": "Daisuke Katagami | Katagami Lab."
+    },
+    {
+      "broken": [],
+      "images": 6,
+      "main": true,
+      "path": "/hss-lab-pages/en/research.html",
+      "title": "Research | Katagami Lab."
+    },
+    {
+      "broken": [],
+      "images": 32,
+      "main": true,
+      "path": "/hss-lab-pages/en/news.html",
+      "title": "News | Katagami Lab."
+    },
+    {
+      "broken": [],
+      "images": 1,
+      "main": true,
+      "path": "/hss-lab-pages/en/member.html",
+      "title": "People | Katagami Lab."
+    },
+    {
+      "broken": [],
+      "images": 0,
+      "main": true,
+      "path": "/hss-lab-pages/en/paper.html",
+      "title": "Publications | Katagami Lab."
+    },
+    {
+      "broken": [],
+      "images": 1,
+      "main": true,
+      "path": "/hss-lab-pages/en/assign.html",
+      "title": "Join Us | Katagami Lab."
+    },
+    {
+      "broken": [],
+      "images": 0,
+      "main": true,
+      "path": "/hss-lab-pages/en/lecture.html",
+      "title": "Teaching | Katagami Lab."
+    },
+    {
+      "broken": [],
+      "images": 0,
+      "main": true,
+      "path": "/hss-lab-pages/en/access.html",
+      "title": "Access | Katagami Lab."
+    }
+  ],
+  "checks": [
+    "Japanese publication search: HAI2025 returns one result",
+    "news award filter: four award rows visible",
+    "390px mobile menu opens and Escape closes it",
+    "390px layout has no horizontal overflow",
+    "desktop homepage matches original appearance"
+  ]
+}
